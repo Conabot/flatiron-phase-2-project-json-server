@@ -1,52 +1,52 @@
 {
-  "toys": [
+  "dogs": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "breed": "terrier-kerryblue",
+      "image": "https://images.dog.ceo/breeds/terrier-kerryblue/n02093859_82.jpg",
+     " ages": 3
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "breed": "rottweiler",
+      "image": "https://images.dog.ceo/breeds/rottweiler/n02106550_6910.jpg",
+      "ages": 4
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "breed": "hound-basset",
+      "image": "https://images.dog.ceo/breeds/hound-basset/n02088238_9815.jpg",
+      "ages": 2
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "breed": "hound-ibizan",
+      "image": "https://images.dog.ceo/breeds/hound-ibizan/n02091244_2941.jpg",
+      "ages": 2
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "breed": "hound-walker",
+      "image": "https://images.dog.ceo/breeds/hound-walker/n02089867_2446.jpg",
+      "ages": 2
     },
     {
       "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "breed": "hound-english",
+      "image": "https://images.dog.ceo/breeds/hound-english/n02089973_186.jpg",
+      "ages": 2
     },
     {
       "id": 7,
-      "name": "Hamm",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "breed": "brabancon",
+      "image": "https://images.dog.ceo/breeds/brabancon/n02112706_107.jpg",
+      "ages": 1
     },
     {
       "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "breed": "mountain-swiss",
+      "image": "https://images.dog.ceo/breeds/mountain-swiss/n02107574_3270.jpg",
+      "ages": 5
     }
   ]
 }
