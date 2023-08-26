@@ -2,49 +2,49 @@
   "dogs": [
     {
       "id": 1,
-      "breed": "terrier-kerryblue",
+      "breed": "Terrier-Kerryblue",
       "image": "https://images.dog.ceo/breeds/terrier-kerryblue/n02093859_82.jpg",
       "likes": 3
     },
     {
       "id": 2,
-      "breed": "rottweiler",
+      "breed": "Rottweiler",
       "image": "https://images.dog.ceo/breeds/rottweiler/n02106550_6910.jpg",
       "likes": 4
     },
     {
       "id": 3,
-      "breed": "hound-basset",
+      "breed": "Hound-Basset",
       "image": "https://images.dog.ceo/breeds/hound-basset/n02088238_9815.jpg",
       "likes": 2
     },
     {
       "id": 4,
-      "breed": "hound-ibizan",
+      "breed": "Hound-Ibizan",
       "image": "https://images.dog.ceo/breeds/hound-ibizan/n02091244_2941.jpg",
       "likes": 2
     },
     {
       "id": 5,
-      "breed": "hound-walker",
+      "breed": "Hound-Walker",
       "image": "https://images.dog.ceo/breeds/hound-walker/n02089867_2446.jpg",
       "likes": 2
     },
     {
       "id": 6,
-      "breed": "hound-english",
+      "breed": "Hound-English",
       "image": "https://images.dog.ceo/breeds/hound-english/n02089973_186.jpg",
       "likes": 2
     },
     {
       "id": 7,
-      "breed": "brabancon",
+      "breed": "Brabancon",
       "image": "https://images.dog.ceo/breeds/brabancon/n02112706_107.jpg",
       "likes": 1
     },
     {
       "id": 8,
-      "breed": "mountain-swiss",
+      "breed": "Mountain-Swiss",
       "image": "https://images.dog.ceo/breeds/mountain-swiss/n02107574_3270.jpg",
       "likes": 5
     }
